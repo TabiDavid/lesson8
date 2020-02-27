@@ -1,1 +1,1 @@
-WebFont.load({ google: { families: ['Ubuntu', 'Roboto'] } });
+WebFont.load({ google: { families: ['Ubuntu', 'sans-serif'] } });
