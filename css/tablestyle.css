@@ -4,7 +4,7 @@ body {
 table {
     
     border-collapse: collapse;
-    width: 20%;
+    width: 22%;
     margin: auto;
     box-shadow: black;
     box-shadow: 10px 10px 10px #628ca6;
@@ -13,6 +13,13 @@ table {
 
   thead, tfoot {
   background-color: #7fb9c2;
+  }
+  thead {
+    font-size: xx-large;
+  }
+
+  tfoot {
+    font-size: small;
   }
 
   tbody tr {
